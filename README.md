@@ -16,7 +16,7 @@ dependencies:
 
 ```sh
 git clone https://github.com/OAmezDroz/Blockchain_TravelTrust.git
-cd hardhat-boilerplate
+cd blockchain_traveltrust
 npm install
 ```
 
